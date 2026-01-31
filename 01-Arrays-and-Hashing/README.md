@@ -9,7 +9,7 @@
 ### Hash-Map-Problems
 - [x] Valid Anagram
 - [x] Two Sum
-- [ ] Group Anagrams
+- [x] Group Anagrams
 - [ ] Top K Frequent Elements
 
 ### Array-Manipulation
