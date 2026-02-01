@@ -1,4 +1,4 @@
-﻿# Arrays & Hashing (2/9 completed)
+﻿# Arrays & Hashing (4/9 completed)
 
 ## Progress by Pattern
 
